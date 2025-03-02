@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a student <br>👯 I’m looking to collaborate on various different projects<br>🌱 I’m currently learning python and app development
+🔭 I’m currently working as a student <br>👯 I’m looking to collaborate on various different projects<br>🌱 I’m Proficient in python,C++ and App development
 
 
 ## 🌐 Socials:
